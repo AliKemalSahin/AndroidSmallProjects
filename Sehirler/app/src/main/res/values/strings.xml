@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Sehirler</string>
+    <string-array name="sehirler">
+        <item>Karabük</item>
+        <item>İstanbul</item>
+        <item>Ankara</item>
+        <item>Mersin</item>
+        <item>Çanakkale</item>
+    </string-array>
+
+    <string-array name="plakalar">
+        <item>78</item>
+        <item>34</item>
+        <item>06</item>
+        <item>33</item>
+        <item>17</item>
+    </string-array>
+
+    <string-array name="bilgiler">
+        <item>Safranbolu ismini daha önce bölgede bol miktarda yetiştirilen safran isimli bitkiden almaktadır.safran; bir çeşit küçük bahçe bitkisi; pembe, sarı veya beyaz çiçekleri baharın ilk zamanlarında açar.Sarı tomurcuklarından öğütülerek elde edilen yoğun maddenin bir gramı ile 2 ton su sarı renge boyanabilmektedir. İlaç sanayinde ve kimyasal renklendirilmede kullanılır. 19. y.y. da Safranbolu özellikle İngiltere’ye tonlarca safran ihraç etmiştir. Günümüzde ise nazlı bir bitki olan safranın yetiştirilme alanı daralmıştır.</item>
+        <item>İstanbul un tarihi ana hatlarıyla beş büyük döneme ayrılabilir: Tarih öncesi dönem, Byzantion dönemi, Doğu Roma dönemi, Osmanlı dönemi ve Türkiye dönemi. İstanbul, 4. yüzyıldan 20. yüzyıla kadar yaklaşık on altı yüzyıl boyunca dünyanın en önemli ve en büyük metropolleri arasında bulunmuş bir şehirdir.</item>
+        <item>23 Nisan 1920 de Büyük Millet Meclisi açıldı. 13 Ekim 1923 te Gazi Mustafa Kemal Atatürk tarafından coğrafi, stratejik, siyasi ve Kurtuluş Savaşındaki merkez üs özellikleri nedeniyle başkent ilan edildi. Sonrasında da 29 Ekim 1923 de Türkiye Cumhuriyeti kuruldu.</item>
+        <item>Klasik devirde Klikya olarak adlandırılan Mersin in tarihten önceki devirlerden beri önemli bir yerleşim yeri olduğu bilinmektedir.Yumuktepe ve Gözlükule de yapılan kazılarda en alt tabaka olarak Neolitik Devir tespit edilmiştir. Yöre Neolitik Dönemden sonra Maden Devri ve Tunç Devri arasına bir geçiş yapmıştır.Yörede sırası ile Hititler, Asurlular, Persler, Makedonyalılar, Romalılar ve Bizanslılar hüküm sürmüş, XI. yüzyılda Selçukluların, XIV. yüzyılda Karamanoğulları ve Ramazanoğullarının XV. yüzyılda da Osmanlı İmparatorluğunun hâkimiyetine geçmiştir.</item>
+        <item>20. yüzyılın başından itibaren başlayan savaş ortamı oldukça karmaşık bir göç dalgası yarattı. Elli yıllık bir döneme yayılan bu süreçte müslümanlar dışındaki halk kenti terketti. Balkanlar dan ve Ege Adaları ndan göçmenler geldi. Gelenler gidenlerin mahallelerine, evlerine yerleştikleri için kent dokusunda büyük bir değişim yaşanmadı.Gelibolu da bir tersanenin kurulmasıyla birlikte Çanakkale deki Osmanlı egemenliği daha da artmıştır. Boğazın önemi Çanakkale Savaşlarında (1. Dünya Savaşında) bir kez daha gündeme gelmiş ve düşman donanması 18 Mart 1915 tarihinde bozguna uğratılmıştır.</item>
+    </string-array>
+
+
+
+</resources>
